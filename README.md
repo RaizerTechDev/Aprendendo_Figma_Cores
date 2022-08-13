@@ -13,6 +13,8 @@
 
 ### 💠 Cor para Sistema: transmitir informação de retorno ao usuário, como erro ou mensagem de aviso.
 
+### 💠Aprendi também a criar estilos, organizando por pastas.
+
 😀👀 Bora lá....
  
 Gostou, então já deixa a 🌟
